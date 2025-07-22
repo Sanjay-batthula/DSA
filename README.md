@@ -39,8 +39,9 @@ To master DSA for interviews, CP, and real-world dev work. Each folder includes 
 
 ## ✅ Logic Building Progress
 
-| #  | Problem Name     | Status |
-|----|------------------|--------|
-| 01 | Even or Odd      | ✅ Done |
-| 02 | Print Table      | ✅ Done |
+| #  | Problem Name             | Status  |
+|----|--------------------------|---------|
+| 01 | Even or Odd              | ✅ Done |
+| 02 | Print Table              | ✅ Done |
+| 03 | Sum of Natural no.s      | ✅ Done |
 

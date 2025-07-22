@@ -1,5 +1,4 @@
-01. Even or Odd  
-The problem can be found at the following link: 🔗 *Custom Problem - No external link*
+Even or Odd  
 
 🧩 Problem Description  
 Given an integer `n`, determine whether it is even or odd.  

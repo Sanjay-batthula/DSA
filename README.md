@@ -36,3 +36,11 @@ This repository is my personal DSA roadmap, covering all key topics from basics 
 ## 📌 Goal:
 To master DSA for interviews, CP, and real-world dev work. Each folder includes problems + solutions that follow my roadmap in a structured way.
 
+
+## ✅ Logic Building Progress
+
+| #  | Problem Name     | Status |
+|----|------------------|--------|
+| 01 | Even or Odd      | ✅ Done |
+| 02 | Print Table      | ✅ Done |
+

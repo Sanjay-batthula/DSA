@@ -44,4 +44,5 @@ To master DSA for interviews, CP, and real-world dev work. Each folder includes 
 | 01 | Even or Odd              | ✅ Done |
 | 02 | Print Table              | ✅ Done |
 | 03 | Sum of Natural no.s      | ✅ Done |
+| 04 | Sum of Squares           | ✅ Done | 
 

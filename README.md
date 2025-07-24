@@ -45,4 +45,5 @@ To master DSA for interviews, CP, and real-world dev work. Each folder includes 
 | 02 | Print Table              | ✅ Done |
 | 03 | Sum of Natural no.s      | ✅ Done |
 | 04 | Sum of Squares           | ✅ Done | 
+| 05 | Swap Two Numbers         | ✅ Done | 
 

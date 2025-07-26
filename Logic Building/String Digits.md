@@ -1,7 +1,5 @@
 # String Digit Checker
 
-**Last Updated:** 26 Jul, 2025
-
 This Java program checks whether a given string contains only digits. If any non-digit characters are found, it prints the first non-digit character detected.
 
 ---

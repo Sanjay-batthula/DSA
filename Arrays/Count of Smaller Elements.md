@@ -12,14 +12,9 @@ Print the count of elements in arr[] which are less than or equal to x.
 
 ## ✨ Example
 Input
-ini
-Copy
-Edit
 x = 9  
 arr = [10, 1, 2, 8, 4, 5]
 Output
-Copy
-Edit
 5
 Explanation
 The numbers ≤ 9 are: 1, 2, 8, 4, 5 → Total: 5

@@ -1,0 +1,46 @@
+# Two Sum – Solution Walkthrough
+
+## 🚀 Intuition
+You’re given an array of integers and a target value. The goal is to find **two numbers** in the array that add up to the target.  
+Using a **hash map** lets us store numbers we’ve seen so far and check if the complement (target - current number) exists — all in constant time.
+
+---
+
+## 🧠 Approach
+1. Initialize an empty hash map.
+2. Loop through each number in the array:
+   - Let `x` be the current number.
+   - Calculate `y = target - x`.
+   - Check if `y` exists in the map:
+     - If yes, return indices of `y` and `x`.
+     - If not, store `x` in the map with its index.
+3. Since the problem guarantees a solution, a return is guaranteed during the loop.
+
+---
+
+## ⏱️ Complexity
+
+- **Time Complexity:**  
+  $$O(n)$$ — Looping through the array once.
+
+- **Space Complexity:**  
+  $$O(n)$$ — In the worst case, all elements stored in the map.
+
+---
+
+## ✅ Code
+
+```java
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        Map<Integer, Integer> d = new HashMap<>();
+        for (int i = 0;; ++i) {
+            int x = nums[i];
+            int y = target - x;
+            if (d.containsKey(y)) {
+                return new int[] {d.get(y), i};
+            }
+            d.put(x, i);
+        }
+    }
+}

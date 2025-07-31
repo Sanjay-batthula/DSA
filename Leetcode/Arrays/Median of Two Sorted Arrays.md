@@ -1,4 +1,4 @@
-# 🧠 Problem: Median of Two Sorted Arrays
+# 🧠 Problem: 4. Median of Two Sorted Arrays
 
 ---
 

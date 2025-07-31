@@ -1,4 +1,4 @@
-# Two Sum – Solution Walkthrough
+# 1. Two Sum – Solution Walkthrough
 
 ## 🚀 Intuition
 You’re given an array of integers and a target value. The goal is to find **two numbers** in the array that add up to the target.  

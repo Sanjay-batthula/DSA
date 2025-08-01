@@ -49,6 +49,7 @@ public class ArrayIndexOutOfBoundsExceptionExample {
         }
     }
 }
+```
 
 
 ## ⏱️ Time and Space Complexity

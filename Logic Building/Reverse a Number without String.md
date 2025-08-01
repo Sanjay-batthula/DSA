@@ -85,8 +85,9 @@ public class ReverseNumber {
         System.out.println(rev);
     }
 }
+```
 
-⚠️ Edge Case
+## ⚠️ Edge Case
 If input is 1000, output should be 1, not 0001
 
 Works only for positive integers; add sign handling if needed for negatives

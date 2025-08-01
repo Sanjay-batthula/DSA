@@ -52,6 +52,7 @@ class Solution {
         return -1;
     }
 }
+```
 
 ## ⏱️ Time and Space Complexity
 Time Complexity: O(n)

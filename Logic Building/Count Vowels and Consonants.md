@@ -48,13 +48,15 @@ public class vowelcheck {
         System.out.println(vc + " vowels " + cc + " consonants");
     }
 }
+```
 
 ## ✅ Sample Output
 ```txt
 hello world
 3 vowels 7 consonants
+```
 
-## 📌 Note
+## 📌Note
 This code is case-sensitive — only lowercase vowels (aeiou) are counted.
 
 To handle both uppercase and lowercase, convert ch to lowercase using Character.toLowerCase(ch).

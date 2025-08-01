@@ -66,6 +66,7 @@ public class NumberToWords {
         System.out.println(convert(810));  // Eight Hundred Ten
     }
 }
+```
 
 ## ⏱️ Time and Space Complexity
 Time: O(1) — Fixed operations for number ≤ 999

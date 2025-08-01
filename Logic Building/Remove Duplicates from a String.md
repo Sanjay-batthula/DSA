@@ -68,11 +68,12 @@ public class RemoveDuplicates {
         removeWithIndexOf(input);
     }
 }
+```
 
 
-📥 Sample Input
+## 📥 Sample Input
 Enter any String: programming
-📤 Sample Output
+## 📤 Sample Output
 Without Duplicates (HashSet): progamin
 Without Duplicates (indexOf): progamin
 

@@ -40,6 +40,7 @@ public class SumOfAlternateDigits {
         System.out.println(sumAlternateDigits(number));
     }
 }
+```
 
 
 ## ⏱️ Time and Space Complexity

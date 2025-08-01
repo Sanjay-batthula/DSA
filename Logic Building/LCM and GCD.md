@@ -74,3 +74,4 @@ public class LCM_GCD {
         System.out.println("LCM: " + lcmVal);
     }
 }
+```

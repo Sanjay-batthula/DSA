@@ -56,6 +56,7 @@ public class FileRead {
         }
     }
 }
+```
 
 ## ⏱️ Time and Space Complexity
 Time Complexity: O(n) — where n is the number of characters in the file

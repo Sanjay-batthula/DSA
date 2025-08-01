@@ -41,6 +41,7 @@ public class IllegalArgumentExceptionExample {
         }
     }
 }
+```
 
 
 ## ⏱️ Time and Space Complexity
@@ -54,6 +55,7 @@ Space Complexity: O(1) — no data structures used
 if (speed < 0) {
     throw new IllegalArgumentException("Speed can't be negative");
 }
+```
 💡 This is great for custom validation in your own APIs or libraries!
 
 

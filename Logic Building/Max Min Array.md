@@ -57,12 +57,13 @@ public class MaxMinArray {
         new MaxMinArray().find_Min_Max(arr);
     }
 }
+```
 
-📥 Sample Input
+## 📥 Sample Input
 Enter the size of the array  
 5  
 Enter the elements of the array  
 3 7 1 9 2
-📤 Sample Output
+## 📤 Sample Output
 Min Element - 1  
 Max Element - 9

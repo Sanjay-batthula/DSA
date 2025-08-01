@@ -40,6 +40,7 @@ public class ClassCastExceptionExample {
         }
     }
 }
+```
 
 ## ⏱️ Time and Space Complexity
 Time Complexity: O(1) — just one cast operation
@@ -53,3 +54,4 @@ Space Complexity: O(1) — no data stored
 if (obj instanceof String) {
     String str = (String) obj;
 }
+```

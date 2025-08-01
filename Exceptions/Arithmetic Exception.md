@@ -71,6 +71,7 @@ public class ArithmeticExceptionExample {
         }
     }
 }
+```
 
 
 ## ⏱️ Time and Space Complexity

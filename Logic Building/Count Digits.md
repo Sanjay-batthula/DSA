@@ -71,6 +71,7 @@ public class CountDigits {
         System.out.println(count);
     }
 }
+```
 
 ## ⏱️ Time and Space Complexity
 Time Complexity: O(d) where d is the number of digits

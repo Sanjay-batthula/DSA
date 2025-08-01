@@ -77,6 +77,7 @@ public class Fibonacci {
         }
     }
 }
+```
 
 
 ## ⏱️ Time and Space Complexity
@@ -84,5 +85,6 @@ Time Complexity: O(n)
 
 Space Complexity: O(1) (we're using constant variables only)
 
-⚠️ Note: If you’re asked to find just the nth Fibonacci number, you can also use recursion or dynamic programming, but for printing series, loop is the most efficient way.
+## ⚠️ Note:
+ If you’re asked to find just the nth Fibonacci number, you can also use recursion or dynamic programming, but for printing series, loop is the most efficient way.
 

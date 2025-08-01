@@ -49,3 +49,4 @@ public class SumOfNaturalNumbers {
         System.out.println(findSum(n));
     }
 }
+```

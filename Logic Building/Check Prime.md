@@ -79,6 +79,7 @@ public class PrimeCheck {
         }
     }
 }
+```
 
 
 ## ⏱️ Time and Space Complexity

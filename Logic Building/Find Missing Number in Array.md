@@ -39,3 +39,4 @@ public class MissingNumber {
         return expectedSum - actualSum;
     }
 }
+```

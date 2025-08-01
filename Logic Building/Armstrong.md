@@ -82,6 +82,7 @@ public class Armstrong {
             System.out.println("Not an Armstrong Number");
     }
 }
+```
 
 
 ## ⏱️ Time and Space Complexity
@@ -89,7 +90,7 @@ Time Complexity: O(d) → d = number of digits in n
 
 Space Complexity: O(1)
 
-##📎 Notes
+## Notes
 Any single-digit number is trivially an Armstrong number.
 
 Works for 3-digit and 4-digit inputs too.

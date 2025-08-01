@@ -37,6 +37,7 @@ public class SecondLargestInArray {
         System.out.println(findSecondLargestInArray(arr));
     }
 }
+```
 
 ## 🧪 Sample Input/Output
 Enter the size of the array: 
@@ -55,6 +56,7 @@ Instead of initializing sMax to 0, use Integer.MIN_VALUE to handle negative numb
 ```java
 int max = Integer.MIN_VALUE;
 int sMax = Integer.MIN_VALUE;
+```
 
 
 ## 🧠 Why Use This Approach?

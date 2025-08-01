@@ -40,6 +40,7 @@ public class NumberFormatExceptionExample {
         }
     }
 }
+```
 
 ## ⏱️ Time and Space Complexity
 Time Complexity: O(1) — only doing a single parse operation

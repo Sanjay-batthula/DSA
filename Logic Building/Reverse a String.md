@@ -73,6 +73,7 @@ public class ReverseString {
         System.out.println(method2_manual(input));
     }
 }
+```
 
 
 ## 🧪 Test Cases
@@ -88,7 +89,8 @@ racecar	racecar
 | 1. StringBuilder | O(n)            | O(n)             |
 | 2. Manual Swap   | O(n)            | O(n)             |
 
-##🙌 Conclusion
+
+## 🙌 Conclusion
 Reversing a string can be done efficiently with built-in methods or manually for deeper understanding.
 
 

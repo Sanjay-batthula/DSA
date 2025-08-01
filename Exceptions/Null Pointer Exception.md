@@ -52,12 +52,13 @@ public class NullPointerExceptionExample {
         }
     }
 }
+```
 
 
-⏱️ Time and Space Complexity
+## ⏱️ Time and Space Complexity
 Time Complexity: O(1) — Single method call attempt
 
 Space Complexity: O(1) — No extra memory used
 
-✅ Tip
+## ✅ Tip
 Avoid nulls wherever possible — use Optional, validations, or defaults.

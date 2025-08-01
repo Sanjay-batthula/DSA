@@ -84,6 +84,7 @@ public class InsufficientBalanceException {
         }
     }
 }
+```
 
 ## ⏱️ Time and Space Complexity
 Time Complexity: O(1) — Single condition check and arithmetic

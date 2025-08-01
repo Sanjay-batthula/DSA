@@ -82,6 +82,7 @@ public class Marks {
         m.getMarks();
     }
 }
+```
 
 ## ⏱️ Time and Space Complexity
 Time Complexity: O(1) — Constant time input check

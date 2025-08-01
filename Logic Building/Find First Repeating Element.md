@@ -37,3 +37,4 @@ public class FirstRepeating {
         return -1; // No repeating element
     }
 }
+```

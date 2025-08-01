@@ -161,6 +161,7 @@ public class QuickSort {
         display(arr);
     }
 }
+```
 
 
 ## 📌 Note: You can change the pivot selection to middle or last element depending on the case to avoid worst-case scenarios.

@@ -49,6 +49,8 @@ public class ToggleCase {
         System.out.println(toggleCase(input));
     }
 }
+```
+
 ## ⏱️ Time and Space Complexity
 Time: O(n) — one pass over the string
 Space: O(n) — for storing the result

@@ -83,6 +83,7 @@ public class FirstNonRepeatingCharacter {
         System.out.println(method2_index(s));
     }
 }
+```
 
 
 📝 **Time and Space Complexity**  
@@ -90,6 +91,6 @@ public class FirstNonRepeatingCharacter {
 - FMethod 2: `O(n^2)` time
 - Space Complexity: O(n)
 
-🧠 Note
+## 🧠 Note
 LinkedHashMap is used instead of HashMap to maintain order.
 Returns null if no unique character is found.

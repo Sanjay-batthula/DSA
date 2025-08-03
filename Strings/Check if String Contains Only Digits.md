@@ -12,7 +12,6 @@ This Java program checks whether a given string contains only digits. If any non
 Contains digits
 
 **Input:**
-`12a45`
 **Output:**
 Contains non digits - a
 

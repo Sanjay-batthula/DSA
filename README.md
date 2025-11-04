@@ -1,49 +1,53 @@
-# Mastering DSA 🚀
+# 🚀 Mastering DSA in Java  
 
-This repository is my personal DSA roadmap, covering all key topics from basics to advanced, categorized for structured learning.
+This repository is a reflection of my **Data Structures and Algorithms (DSA)** journey — built entirely through **LeetCode problem-solving**.  
+The goal isn’t just to get answers right, but to **master the thought process** behind every approach — from brute force to optimal solutions.  
 
-## 🧠 Topics Covered
+---
 
-1. Logic Building
-2. Time & Space Complexity
-3. Arrays
-4. Searching Algorithms
-5. Sorting Algorithms
-6. Hashing
-7. Two Pointer Technique
-8. Sliding Window Technique
-9. Prefix Sum Technique
-10. Strings
-11. Recursion
-12. Matrix/Grid
-13. Linked List
-14. Stack
-15. Queue
-16. Deque
-17. Tree
-18. Heap
-19. Graph
-20. Greedy Algorithms
-21. Dynamic Programming
-22. Advanced Data Structures
-23. Other Algorithms
+## 🧠 What This Repository Represents  
 
-## 👨‍💻 Languages Used:
-- Python 🐍
-- Java ☕
-- C++ 🚀
+A complete **Java-based problem-solving archive** that focuses on:
+- Understanding the **core logic** behind each problem  
+- Exploring **multiple solution strategies**  
+- Analyzing **time and space complexities**  
+- Writing **clean, efficient, and interview-ready code**
 
-## 📌 Goal:
-To master DSA for interviews, CP, and real-world dev work. Each folder includes problems + solutions that follow my roadmap in a structured way.
+Each solution emphasizes **clarity**, **pattern recognition**, and **optimization**.  
+
+---
+
+## ☕ Language Used  
+> All implementations are written in **Java**, ensuring consistency, readability, and depth of understanding across problems.  
+
+---
+
+## 🧩 Repository Structure  
+
+Each folder contains:
+- **Problem Description**  
+- **Approach / Intuition**  
+- **Time & Space Complexity**  
+- **Brute Force + Optimized Solutions**  
+- **Code Implementation (Java)**  
 
 
-## ✅ Logic Building Progress
+---
 
-| #  | Problem Name             | Status  |
-|----|--------------------------|---------|
-| 01 | Even or Odd              | ✅ Done |
-| 02 | Print Table              | ✅ Done |
-| 03 | Sum of Natural no.s      | ✅ Done |
-| 04 | Sum of Squares           | ✅ Done | 
-| 05 | Swap Two Numbers         | ✅ Done | 
+## 🎯 Goal  
 
+To develop a strong, adaptable **problem-solving mindset** by:
+- Recognizing recurring algorithmic patterns  
+- Bridging the gap between **theory and practical coding**  
+- Gaining confidence for **technical interviews and real-world challenges**
+
+---
+
+## 💡 Vision  
+
+This is not just a repository — it’s a **knowledge base** built from consistent practice, curiosity, and deep understanding.  
+Every solution reflects the journey of becoming a **better problem solver**, one problem at a time.  
+
+---
+
+### ✨ “Think logically, code efficiently, and never stop optimizing.”  

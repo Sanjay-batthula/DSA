@@ -1,7 +1,9 @@
-# 🚀 Mastering DSA in Java  
+<h1 align="center">🚀 Mastering DSA in Java ☕</h1>
 
-This repository is a reflection of my **Data Structures and Algorithms (DSA)** journey — built entirely through **LeetCode problem-solving**.  
-The goal isn’t just to get answers right, but to **master the thought process** behind every approach — from brute force to optimal solutions.  
+<p align="center">
+  <b>Learning. Solving. Optimizing.</b><br>
+  Built through consistent LeetCode problem-solving — one problem at a time.
+</p>
 
 ---
 
@@ -31,7 +33,6 @@ Each folder contains:
 - **Brute Force + Optimized Solutions**  
 - **Code Implementation (Java)**  
 
-
 ---
 
 ## 🎯 Goal  
@@ -50,4 +51,4 @@ Every solution reflects the journey of becoming a **better problem solver**, one
 
 ---
 
-### ✨ “Think logically, code efficiently, and never stop optimizing.”  
+<h3 align="center">✨ “Think logically, code efficiently, and never stop optimizing.” ✨</h3>
